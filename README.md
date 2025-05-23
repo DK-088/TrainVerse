@@ -82,12 +82,6 @@ TrainVerse/
 └── README.md
 ```
 
-## 🎨 Screenshots
-
-| Login Screen | Student Dashboard |
-|--------------|-------------------|
-| <img src="screenshots/login.png" width="400"> | <img src="screenshots/dashboard.png" width="400"> |
-
 ## 🤝 Want to Contribute?
 
 We love contributors! Here's how you can help:
