@@ -98,7 +98,7 @@ We love contributors! Here's how you can help:
 
 ## 📜 License
 
-MIT © [Your Name]
+MIT © [Deepak]
 
 ---
 
